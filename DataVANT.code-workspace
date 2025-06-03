@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../root/DataVANT"
+		},
+		{
+			"name": "DataVANT",
+			"path": "../../../app/DataVANT"
+		}
+	],
+	"settings": {}
+}

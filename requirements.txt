@@ -1,0 +1,8 @@
+kivy[base]
+reportlab
+pillow
+numpy
+buildozer
+cython
+fpdf
+plyer

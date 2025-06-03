@@ -1,0 +1,8 @@
+certifi
+chardet
+fpdf
+https://github.com/kivy/plyer/archive/refs/heads/master.zip
+idna
+kivy_garden.mapview
+requests
+urllib3
